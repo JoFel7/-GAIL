@@ -1,2 +1,2 @@
-# -GAIL
+# GAIL
 Grand Archive Interactive Library
